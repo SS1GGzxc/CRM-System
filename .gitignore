@@ -18,7 +18,7 @@ logs
 .fleet
 .idea
 start.bat
-
+package-lock.json
 # Local env files
 .env
 .env.*
